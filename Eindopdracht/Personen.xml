@@ -1,49 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <People>
     <Person id="0">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>
     </Person>
     <Person id="1">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>
     </Person>
     <Person id="2">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>
     </Person>
     <Person id="3">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>
     </Person>
     <Person id="4">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>
     </Person>
     <Person id="5">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>
     </Person>
     <Person id="6">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>
     </Person>
     <Person id="7">
-        <Name>Jeff</Name>
+        <FirstName>Jeff</FirstName>
+        <LastName>Meijer</LastName>
         <Age>18</Age>
         <Sex>Male</Sex>
         <Nationality>Netherlands</Nationality>

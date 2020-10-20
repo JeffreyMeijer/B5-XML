@@ -9,7 +9,8 @@
     </xs:element>
     <xs:complexType name ="PersonType">
         <xs:sequence>
-            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="FirstName" type="xs:string"/>
+            <xs:element name="LastName" type="xs:string"/>
             <xs:element name="Age" type="xs:positiveInteger"/>
             <xs:element name="Sex" type="xs:string"/>
             <xs:element name="Nationality" type="xs:string"/>
