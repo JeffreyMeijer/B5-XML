@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <People>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="0">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="1">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="2">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="3">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="4">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="5">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="6">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
-    <Person>
-        <Name></Name>
-        <Age></Age>
-        <Sex></Sex>
-        <Nationality></Nationality>
+    <Person id="7">
+        <Name>Jeff</Name>
+        <Age>18</Age>
+        <Sex>Male</Sex>
+        <Nationality>Netherlands</Nationality>
     </Person>
 </People>
