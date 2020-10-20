@@ -7,7 +7,7 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
-    <xs:complexType name ="PersonType">
+    <xs:complexType name="PersonType">
         <xs:sequence>
             <xs:element name="FirstName" type="xs:string"/>
             <xs:element name="LastName" type="xs:string"/>
@@ -15,6 +15,6 @@
             <xs:element name="Sex" type="xs:string"/>
             <xs:element name="Nationality" type="xs:string"/>
         </xs:sequence>
-        <xs:attribute name='id' type = 'xs:decimal'/>
+        <xs:attribute name='id' type='xs:decimal'/>
     </xs:complexType>
 </xs:schema>
